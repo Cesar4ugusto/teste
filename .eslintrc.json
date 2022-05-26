@@ -17,6 +17,7 @@
         "SharedArrayBuffer": "readonly"
     },
     "rules": {
-        "prettier/prettier": "error"
+        "prettier/prettier": "error",
+        "@typescript-eslint/no-namespace": 0
     }
 }
